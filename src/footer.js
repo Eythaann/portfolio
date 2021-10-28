@@ -16,10 +16,10 @@ const Footer = ()=>{
             <i>"Art lover in all its expressions"</i>
           </div>
           <div style={{margin:"3rem 1rem",width:"100%",maxWidth:"400px",display:"flex", justifyContent:"space-around"}}>
-            <FontAwesomeIcon icon={faInstagramSquare} size="4x"/> 
-            <FontAwesomeIcon icon={faTwitterSquare} size="4x"/> 
-            <FontAwesomeIcon icon={faLinkedin} size="4x"/> 
-            <FontAwesomeIcon icon={faGithubSquare} size="4x"/> 
+            <a href="https://instagram.com/eythaann" target="_blank"><FontAwesomeIcon icon={faInstagramSquare} size="4x"/></a>
+            <a href="https://twitter.com/eythaann" target="_blank"><FontAwesomeIcon icon={faTwitterSquare} size="4x"/> </a>
+            <a href="https://linkedin.com/in/eythaann" target="_blank"><FontAwesomeIcon icon={faLinkedin} size="4x"/> </a>
+            <a href="https://github.com/eythaann" target="_blank"><FontAwesomeIcon icon={faGithubSquare} size="4x"/> </a>
           </div>
           <div>
             <b>Handcrafted by me ©twentytwentyone</b>

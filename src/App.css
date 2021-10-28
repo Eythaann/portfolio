@@ -13,6 +13,9 @@ h3{
 p{
     font-size: 20px;
 }
+a{
+    color: inherit;
+}
 button{
     border-radius: 10px;
     border: solid #000;
